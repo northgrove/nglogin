@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Northgrove",
+      "unitTestsEnabled": true,
+      "useAzureAppInsights": false
+    },
+    "libraryName": "idPortenTeamsApp",
+    "generator-version": "2.14.0"
+  }
+}
